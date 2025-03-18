@@ -1,15 +1,19 @@
-# Task-01: Responsive Landing Page
+# Stopwatch Web Application ⏱️
 
-## Description
-This project is a **Responsive Landing Page** that includes an interactive navigation menu. The navigation menu changes color or style when scrolled or when hovering over a menu item. The menu has a **fixed position** and is visible on all pages.
+## Task-02: Stopwatch Web Application
 
-## Features
-- **Fixed Navigation Menu**: Stays visible on all pages.
-- **Interactive Effects**:
-  - Changes color or style on scroll.
-  - Highlights menu items on hover.
-- **Responsive Design**: Works on all screen sizes.
-- **Technologies Used**:
-  - **HTML**: Structure of the landing page.
-  - **CSS**: Styling and responsiveness.
-  - **JavaScript**: Adding interactivity (scroll and hover effects).
+### 📌 Description
+This project is a **Stopwatch Web Application** built using **HTML, CSS, and JavaScript**. It provides functionalities such as:
+- **Start, Pause, and Reset** the stopwatch
+- **Track and Display Lap Times**
+- **User-friendly and interactive UI**
+
+### 🚀 Technologies Used
+- **HTML** → Structure of the application  
+- **CSS** → Styling for an appealing user interface  
+- **JavaScript** → Logic for stopwatch functionalities  
+
+### 🎯 Features
+✅ Start, Pause, and Reset functionality  
+✅ Tracks and displays lap times  
+✅ Interactive UI with smooth transitions 
